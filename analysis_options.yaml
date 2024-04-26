@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    always_use_package_imports: true
+
+# https://dart.dev/guides/language/analysis-options
+# https://dart.dev/lints
